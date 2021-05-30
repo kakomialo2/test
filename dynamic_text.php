@@ -6,7 +6,10 @@
 </head>
 <body>
    
-   <?php $title = "Sergio Araujo's site"; ?>
+   <?php $title = "Sergio Araujo's site"; 
+   
+   // teest2
+   ?>
    
    <h1><?php echo $title ?></h1>
     
